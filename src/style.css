@@ -3,3 +3,16 @@
 body{
     background: white;
 }
+
+p {
+    text-align: center;
+    margin-top: 7%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: red;
+}
+#titulo {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+}
